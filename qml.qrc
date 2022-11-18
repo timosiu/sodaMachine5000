@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>7dew.png</file>
+        <file>colaCola.png</file>
+        <file>h2o.png</file>
+        <file>orangeJuice.png</file>
+        <file>sodaLogo.png</file>
+        <file>Button.qml</file>
+        <file>Drink.qml</file>
+        <file>SodaButton.qml</file>
+    </qresource>
+</RCC>
